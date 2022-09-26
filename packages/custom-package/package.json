@@ -1,0 +1,11 @@
+{
+  "name": "custom-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Building\""
+  },
+  "author": "",
+  "license": "ISC"
+}
